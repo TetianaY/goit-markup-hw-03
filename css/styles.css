@@ -261,6 +261,7 @@ body {
 .work .container {
   padding-left: 0px;
   padding-right: 0px;
+  padding-bottom: 94px;
 }
 .work-list {
   display: flex;
